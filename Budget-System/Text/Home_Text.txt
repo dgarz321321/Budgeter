@@ -1,0 +1,19 @@
+        Welcome To The Home Tab 
+
+Go ahead and select which start 
+settings you will like to have before running the application
+
+Settings are as follows:
+
+Set Apperance Option: Set the appearance mode of the screen. It could be between light and dark. System Default refers to what
+your computer is set to
+
+Fullscreen: Decide wether or not you would like to run the applicaiton in full screen mode
+
+Color Theme: This will change the color of text.
+
+Scaling: This whill change how large or small the overall size of text and screen will be. Be sure to move this even if you dont 
+feel the need to change it.
+
+To the right of the screen you can find the reason for this applcation as well as more info which will include 
+contact information.

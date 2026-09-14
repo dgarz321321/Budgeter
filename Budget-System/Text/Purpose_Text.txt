@@ -1,0 +1,16 @@
+
+
+
+The purpose of this applicaiton 
+is to help the user
+not only finance and save money, 
+but also allow them 
+to keep track of any forgotten 
+subscriptions. 
+Rather than making the user 
+input their banking information, 
+this application all information 
+is self inputed by the user.
+Additonally, this app will also show 
+a detailed graph about the user's
+given income and how they can improve.
